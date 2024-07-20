@@ -1,0 +1,21 @@
+:root {
+
+  /* colors */
+  --accent-color: #E21F27;
+
+  /* fonts */
+  --main-font: 'Inter', sans-serif;
+  --secondary-font: 'Coolvetica', sans-serif;
+
+  /* text */
+  --main-text-color: rgb(255, 255, 255);
+  --second-text-color: rgb(168, 168, 168);
+  --hover-text-color: rgb(122, 122, 122);
+
+  --header-text-line-height: 1.3;
+
+  /* backgroung */
+  --main-background-color: #000000;
+  --footer-background-color: #0c0c0c;
+  --bg-highlight: #1a1a1a;
+}
